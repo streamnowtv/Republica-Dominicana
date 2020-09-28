@@ -2,73 +2,73 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="dominican" tvg-id="110414" tvg-name="", Acento TV
 http://acentotv01.streamprolive.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OKsv5Xd.png" group-title="dominican" tvg-id="110414" tvg-name="", Ame 47
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OKsv5Xd.png" group-title="dominican" tvg-id="110415" tvg-name="", Ame 47
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.bellavision8.com/bellavision_logo%20(1).png" group-title="dominican" tvg-id="110414" tvg-name="", Bellavision 8
+#EXTINF:-1 tvg-logo="http://www.bellavision8.com/bellavision_logo%20(1).png" group-title="dominican" tvg-id="110416" tvg-name="", Bellavision 8
 http://ss1.domint.net:2128/bev_str/bella/chunklist_w332864853.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5NCuyez.png" group-title="dominican" tvg-id="110414" tvg-name="", Bonao TV Canal 12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5NCuyez.png" group-title="dominican" tvg-id="110417" tvg-name="", Bonao TV Canal 12
 http://ss1.domint.net:2226/btv_str/bonao/chunklist_w482371085.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uIrrAaR.png" group-title="dominican" tvg-id="110414" tvg-name="", Buena TV Canal 14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIrrAaR.png" group-title="dominican" tvg-id="1104148" tvg-name="", Buena TV Canal 14
 https://cdn.hostlagarto.com:4445/buenatv/buenatv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PY4Nzef.png" group-title="dominican" tvg-id="110414" tvg-name="", Canal 4 RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PY4Nzef.png" group-title="dominican" tvg-id="1104149" tvg-name="", Canal 4 RD
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8QlWnpQ.jpg" group-title="dominican" tvg-id="110414" tvg-name="", Canal 25 Santiago
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QlWnpQ.jpg" group-title="dominican" tvg-id="1104150" tvg-name="", Canal 25 Santiago
 https://ss1.domint.net:3108/c25_str/canal25/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bzICwYY.png" group-title="dominican" tvg-id="110414" tvg-name="", Canal del Sol 65
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bzICwYY.png" group-title="dominican" tvg-id="1104151" tvg-name="", Canal del Sol 65
 http://canaldelsol01.streamprolive.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GQxXbjN.png" group-title="dominican" tvg-id="110414" tvg-name="", Carivision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQxXbjN.png" group-title="dominican" tvg-id="1104152" tvg-name="", Carivision
 http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBJnty.png" group-title="dominican" tvg-id="110414" tvg-name="", Cinevision 19
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBJnty.png" group-title="dominican" tvg-id="1104153" tvg-name="", Cinevision 19
 http://cinevision01.streamprolive.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72pioLp.png" group-title="dominican" tvg-id="110414" tvg-name="", Color Vision 9 (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72pioLp.png" group-title="dominican" tvg-id="1104154" tvg-name="", Color Vision 9 (New!)
 https://ss5.domint.net:3018/cvh_str/colorvisionhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPbU5er.png" group-title="dominican" tvg-id="110414" tvg-name="", Digital 15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPbU5er.png" group-title="dominican" tvg-id="1104155" tvg-name="", Digital 15
 http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nnmAyXT.png" group-title="dominican" tvg-id="110414" tvg-name="", Digital Vision 63
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nnmAyXT.png" group-title="dominican" tvg-id="1104156" tvg-name="", Digital Vision 63
 http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9HnBtC9.png" group-title="dominican" tvg-id="110414" tvg-name="", Faro Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9HnBtC9.png" group-title="dominican" tvg-id="1104157" tvg-name="", Faro Vision
 http://184.173.181.2:1935/8060/8060/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png" group-title="dominican" tvg-id="110414" tvg-name="", Fuego TV
+#EXTINF:-1 tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png" group-title="dominican" tvg-id="1104158" tvg-name="", Fuego TV
 http://184.173.181.2:1935/8020/8020/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VuNcifM.png" group-title="dominican" tvg-id="110414" tvg-name="", GH Television
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VuNcifM.png" group-title="dominican" tvg-id="1104159" tvg-name="", GH Television
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="dominican" tvg-id="110414" tvg-name="", HM TV 33
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="dominican" tvg-id="1104160" tvg-name="", HM TV 33
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmYKQxN.png" group-title="dominican" tvg-id="110414" tvg-name="", Info TDN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmYKQxN.png" group-title="dominican" tvg-id="1104161" tvg-name="", Info TDN
 http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pp6O7SB.png" group-title="dominican" tvg-id="110414" tvg-name="", Linieros TV 36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pp6O7SB.png" group-title="dominican" tvg-id="1104162" tvg-name="", Linieros TV 36
 http://cm.hostlagarto.com:8081/LinierosTV/linieros.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="dominican" tvg-id="110414" tvg-name="", Luna TV
+#EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="dominican" tvg-id="1104163" tvg-name="", Luna TV
 http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fXE2CL7.png" group-title="dominican" tvg-id="110414" tvg-name="", Mango TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fXE2CL7.png" group-title="dominican" tvg-id="1104164" tvg-name="", Mango TV
 http://mangotv01.streamprolive.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="dominican" tvg-id="110414" tvg-name="", Microvision 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="dominican" tvg-id="1104165" tvg-name="", Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KVbDO5T.png" group-title="dominican" tvg-id="110414" tvg-name="", Naranja TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVbDO5T.png" group-title="dominican" tvg-id="1104166" tvg-name="", Naranja TV
 http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="dominican" tvg-id="110414" tvg-name="", Nexxo 20
+#EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="dominican" tvg-id="1104167" tvg-name="", Nexxo 20
 http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="dominican" tvg-id="110414" tvg-name="", Onda TV 10
